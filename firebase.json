@@ -1,0 +1,18 @@
+{
+  "info" : "Business meeting room",
+  "messages" : {
+    "-KUDHLoA79LzYXsXLNZM" : {
+      "message" : "Hey"
+    },
+    "-KUDHPgsYqOVcC-Db7-W" : {
+      "message" : "Hello"
+    },
+    "-KUDHS9kUXPYWN8aqD6A" : {
+      "message" : "How are you?"
+    },
+    "-KUDHW9EmNahoyjdwJdf" : {
+      "message" : "Fine thanks, you?"
+    }
+  },
+  "host" : "Samuli Ristimäki"
+}
