@@ -1,2 +1,2 @@
 # react-chat
-React + Redux + Firebase App
+React + Redux + Firebase App (WIP)
